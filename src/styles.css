@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Roboto&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.1/css/bootstrap.min.css");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
